@@ -10,49 +10,44 @@ In the industrial sector, crystal simulations are invaluable for optimizing manu
     - Particles are introduced randomly and move until they stick to the existing structure.
     - They move in a random walk pattern and aggregate around the existing crystals.
 
-2. Laplacian Growth:
-
-    - Crystals grow in areas of higher curvature or Laplacian of the field.
-    - This results in dendritic or branching patterns.
-
-3. Cellular Automaton:
+2. Cellular Automaton:
 
     - Use a grid where each cell can be in a few states (e.g., on or off).
     - Apply rules that determine the state of each cell based on its neighbors.
     - Create complex patterns by iterating through generations.
 
-4. Reaction-Diffusion:
+3. Reaction-Diffusion:
 
     - Simulate the interactions of two or more chemicals that diffuse and react with each other.
     - Turing patterns can emerge, leading to spatially varying structures.
 
-5. Voronoi Diagrams:
+4. Voronoi Diagrams:
 
     - Place seeds randomly on the plane.
     - Assign each point in the plane to the nearest seed, creating Voronoi cells.
     - Crystals grow within these cells.
 
-6. Snowflake Growth:
+5. Snowflake Growth:
 
     - Use a simple algorithm to generate the fractal growth of a snowflake.
     - Typically, it involves adding smaller branches to the sides of existing branches.
 
-7. Dendritic Growth:
+6. Dendritic Growth:
 
     - Simulate the growth of crystals with dendritic or tree-like structures.
     - Crystals grow preferentially along the direction of a temperature gradient or in areas with higher concentration of a growth-promoting substance.
 
-8. Boundary-Limited Growth:
+7. Boundary-Limited Growth:
 
     - Crystals grow within defined boundaries, creating intricate edge patterns.
     - This can mimic real-world scenarios where crystals grow within a confined space.
 
-9. Electrodeposition:
+8. Electrodeposition:
 
     - Simulate the growth of crystals on an electrode surface.
     - Crystals grow when ions are deposited onto the electrode under the influence of an electric field.
 
-10. Biological Growth Simulation:
+9. Biological Growth Simulation:
 
     - Simulate the growth of structures based on biological models.
     - For example, model the branching of trees or the formation of coral reefs.
@@ -61,9 +56,6 @@ In the industrial sector, crystal simulations are invaluable for optimizing manu
 
 1. Diffusion-Limited Aggregation (DLA):
 
-<video width="640" height="360" controls>
-    <source src="results/DLA_output_video.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
+    [DLA Video](results/DLA_output_video.mp4)
 
-2. Laplacian Growth:
+2. Cellular Automaton:

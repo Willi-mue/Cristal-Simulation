@@ -12,49 +12,44 @@ Kristallsimulationen spielen auch eine Schlüsselrolle bei der Untersuchung von 
     - Teilchen werden zufällig eingeführt und bewegen sich, bis sie an der bestehenden Struktur haften.
     - Sie bewegen sich in einem zufälligen Muster und aggregieren sich um die bestehenden Kristalle.
 
-2. Laplacian Growth:
-
-    - Kristalle wachsen in Bereichen höherer Krümmung oder Laplacian des Feldes.
-    - Dies führt zu dendritischen oder verzweigten Mustern.
-
-3. Cellular Automaton:
+2. Cellular Automaton:
 
     - Verwenden Sie ein Raster, in dem jede Zelle in einigen Zuständen sein kann (z. B. an oder aus).
     - Wenden Sie Regeln an, die den Zustand jeder Zelle basierend auf ihren Nachbarn bestimmen.
     - Erzeugen Sie komplexe Muster, indem Sie Generationen durchlaufen.
 
-4. Reaction-Diffusion:
+3. Reaction-Diffusion:
 
     - Simulieren Sie die Wechselwirkungen von zwei oder mehr Chemikalien, die miteinander diffundieren und reagieren.
     - Turing-Muster können auftreten und räumlich unterschiedliche Strukturen erzeugen.
 
-5. Voronoi Diagrams:
+4. Voronoi Diagrams:
 
     - Platzieren Sie Samen zufällig auf der Ebene.
     - Ordnen Sie jeden Punkt in der Ebene dem nächsten Samen zu und erstellen Sie Voronoi-Zellen.
     - Kristalle wachsen innerhalb dieser Zellen.
 
-6. Snowflake Growth:
+5. Snowflake Growth:
 
     - Verwenden Sie einen einfachen Algorithmus, um das fraktale Wachstum eines Schneekristalls zu generieren.
     - Normalerweise beinhaltet dies das Hinzufügen kleinerer Zweige zu den Seiten bereits vorhandener Zweige.
 
-7. Dendritic Growth:
+6. Dendritic Growth:
 
     - Simulieren Sie das Wachstum von Kristallen mit dendritischen oder baumartigen Strukturen.
     - Kristalle wachsen bevorzugt in Richtung eines Temperaturgradienten oder in Bereichen mit höherer Konzentration einer wachstumsfördernden Substanz.
 
-8. Boundary-Limited Growth:
+7. Boundary-Limited Growth:
 
     - Kristalle wachsen innerhalb definierter Grenzen und erzeugen komplexe Randmuster.
     - Dies kann reale Szenarien nachahmen, in denen Kristalle in einem begrenzten Raum wachsen.
 
-9. Electrodeposition:
+8. Electrodeposition:
 
     - Simulieren Sie das Wachstum von Kristallen auf einer Elektrodenoberfläche.
     - Kristalle wachsen, wenn Ionen unter dem Einfluss eines elektrischen Feldes auf die Elektrode abgelagert werden.
 
-10. Biological Growth Simulation:
+9. Biological Growth Simulation:
 
     - Simulieren Sie das Wachstum von Strukturen auf der Grundlage biologischer Modelle.
     - Zum Beispiel die Verzweigung von Bäumen oder die Bildung von Korallenriffen modellieren.
@@ -63,9 +58,6 @@ Kristallsimulationen spielen auch eine Schlüsselrolle bei der Untersuchung von 
 
 1. Diffusion-Limited Aggregation (DLA):
 
-<video width="640" height="360" controls>
-    <source src="results/DLA_output_video.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
+    [DLA Video](results/DLA_output_video.mp4)
 
-2. Laplacian Growth:
+2. Cellular Automaton:
