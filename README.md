@@ -56,6 +56,6 @@ In the industrial sector, crystal simulations are invaluable for optimizing manu
 
 1. Diffusion-Limited Aggregation (DLA):
 
-    [DLA Video](results/DLA_output_video.mp4)
+    ![DLA Picture](results/result_dla.png)
 
 2. Cellular Automaton:

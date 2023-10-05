@@ -58,6 +58,6 @@ Kristallsimulationen spielen auch eine Schlüsselrolle bei der Untersuchung von 
 
 1. Diffusion-Limited Aggregation (DLA):
 
-    [DLA Video](results/DLA_output_video.mp4)
+    ![DLA Picture](results/result_dla.png)
 
 2. Cellular Automaton:
