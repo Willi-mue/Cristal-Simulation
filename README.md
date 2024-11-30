@@ -58,4 +58,3 @@ In the industrial sector, crystal simulations are invaluable for optimizing manu
 
     ![DLA Picture](results/result_dla.png)
 
-2. Cellular Automaton:
