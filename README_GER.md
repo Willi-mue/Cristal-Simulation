@@ -60,4 +60,3 @@ Kristallsimulationen spielen auch eine Schlüsselrolle bei der Untersuchung von 
 
     ![DLA Picture](results/result_dla.png)
 
-2. Cellular Automaton:
