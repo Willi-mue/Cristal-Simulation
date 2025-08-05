@@ -3,7 +3,7 @@ import shutil
 import subprocess
 
 
-output_video = 'output_video.mp4'
+output_video = 'results/output_video.mp4'
 
 frame_rate = 80
 scale = 800  
@@ -21,10 +21,10 @@ else:
         "-i", "frames/frame_%d.ppm",
         "-vf", f"scale={scale}:{scale}",
         "-c:v", "hevc_nvenc",
-        "-qp", "0",
+        "-b:v", "33M",
         "-r", f"{frame_rate}",  # Output frame rate (change as needed)
         "-pix_fmt", "yuv420p",
-        "output_video.mp4"
+        "results/output_video.mp4"
     ]
 
     subprocess.run(cmd, check=True)
