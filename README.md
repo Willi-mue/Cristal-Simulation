@@ -24,4 +24,4 @@ On a scientific level, crystal simulations enable a deeper understanding of phen
 
 📽️ Watch a simulation of crystal growth in action:
 
-[Crystal Growth Demo Video](results/demo_video.mp4)
+[Crystal Growth Demo Video](results/output_video.mp4)
