@@ -1,2 +1,19 @@
+# Build
+build/
 *.out
+
+# Simulation output
+out/
+frames/
+*.ppm
+# screenshots from the live view (S key)
+cristal_*.png
+
+# Python
+__pycache__/
+.venv/
+
+# Tools
 .claude/
+.vscode/
+.idea/
